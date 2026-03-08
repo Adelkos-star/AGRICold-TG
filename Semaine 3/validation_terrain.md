@@ -1,13 +1,15 @@
-# 🌍 Validation & Regard de la Diaspora (Semaine 3)
+# 📊 Étude de Marché & Démarches (Semaine 3)
 
-Nous avons mobilisé la **communauté étudiante togolaise résidant au Maroc** pour obtenir un regard critique sur la conservation des produits frais à Broukou (Kara).
+Depuis le Maroc, nous avons confronté notre vision **AGRICold-TG** à la réalité du terrain africain.
 
-### 📊 Étude de Marché (Sondage Diaspora)
-- **Cible** : Étudiants togolais au Maroc.
-- **Insight Clé** : Confirmation du besoin urgent de moderniser la chaîne de froid.
-- **Validation** : La digitalisation via **Readdy** est perçue comme le levier de confiance pour garantir la fraîcheur.
+### 📝 Résultats du Sondage (Diaspora & Afrique)
+Nous avons interrogé un panel représentatif de la diaspora africaine au Maroc sur l'utilité d'une plateforme de gestion et de vente de produits frais.
+- **Taux d'adhésion** : **91% des répondants** ont affirmé qu'une telle plateforme les intéresserait pour sécuriser leurs achats et soutenir les producteurs.
+- **Interprétation** : Ce chiffre valide notre choix d'utiliser **Readdy** et **Airtable** pour créer un lien de confiance entre Broukou et les consommateurs.
 
-### 🏛️ Plaidoyer Institutionnel (Agropole de Kara)
-- **Action** : Prise de contact officielle avec l'Agropole de Kara.
-- **Objectif** : Présenter AGRICold-TG comme une innovation "Made by Diaspora" pour Broukou.
+### 🏛️ Relation Institutionnelle (Agropole de Kara)
+- **Action** : Tentatives de mise en relation directe par voie téléphonique avec l'Agropole de Kara.
+- **Objectif** : Présenter notre solution comme un levier pour réduire les pertes post-récoltes dans la région.
+- **Statut** : En attente de mise en relation formelle. Nous maintenons notre proactivité pour intégrer AGRICold-TG dans l'écosystème agricole officiel du Togo.
+
 
