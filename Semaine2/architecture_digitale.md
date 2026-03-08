@@ -21,3 +21,6 @@ Le "cerveau" de notre solution repose sur l'interconnexion No-Code :
 - **Make** : Le moteur d'automatisation. Il assure le flux d'informations en temps réel entre l'application Readdy et notre base Airtable sans intervention manuelle.
 
 > **Note technique** : Cette stack a été choisie pour sa rapidité de déploiement et sa facilité de maintenance en milieu rural.
+### 🗺️ Schéma Logistique & Parcours Client
+Nous avons modélisé le flux complet de la récolte à la vente (Collecte à Broukou -> Stockage AGRICold-TG -> Commande via Readdy).
+- **Lien du schéma interactif** : [Consulter notre parcours client sur Whimsical](https://whimsical.com/EDAhDxkTsp3MTBKbizcx7r)
