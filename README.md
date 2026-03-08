@@ -1,6 +1,5 @@
 # 🍅❄️ AGRICold-TG : Révolution du Froid Solaire à Broukou
 
-p align="center">
   <img src="logo_AGRICOLD-TG.png" alt="logo_AGRICold-TG" width="100%">
 </p>
 **AGRICold-TG** est un système de chambre froide solaire autonome conçu pour éradiquer les pertes post-récoltes de fruits et légumes dans la région de la Kara, au Togo.
