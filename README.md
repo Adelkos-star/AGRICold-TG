@@ -1,12 +1,21 @@
-# AGRICold-TG 🍅❄️
+# 🍅❄️ AGRICold-TG : Révolution du Froid Solaire à Broukou
 
-**AGRICold-TG** est une solution innovante de chambres froides solaires conçue pour répondre au défi des pertes post-récolte dans la **Région de la Kara**, spécifiquement pour les producteurs de tomates de **Broukou**.
+**AGRICold-TG** est un système de chambre froide solaire autonome conçu pour éradiquer les pertes post-récoltes de fruits et légumes dans la région de la Kara, au Togo.
 
-## 📍 Contexte (Semaine 1)
-Nos recherches ont montré que les producteurs de Broukou perdent une part importante de leur récolte faute de moyens de conservation adaptés au climat local. AGRICold-TG intervient pour stabiliser les revenus des agriculteurs.
+## 📍 Pourquoi Broukou ?
+Broukou est un pôle stratégique de production maraîchère. Malgré son potentiel, l'absence de chaîne de froid entraîne des pertes massives. Notre solution cible en priorité la **tomate**, produit extrêmement périssable, avant de s'étendre à l'ensemble des fruits et légumes de la zone.
 
-## 🚀 Objectifs
-- Réduire les pertes de tomates de 40% à moins de 5%.
-- Offrir une solution 100% autonome grâce à l'énergie solaire.
-- Utiliser des matériaux adaptés au contexte thermique de la Kara.
+## 🛠️ Spécificités Techniques
+- **Énergie** : Alimentation 100% photovoltaïque (adaptée au fort ensoleillement de la Kara).
+- **Isolation** : Utilisation de matériaux optimisés pour les hautes températures locales.
+- **Polyvalence** : Système de régulation thermique ajustable pour différents types de produits.
+
+## 📅 État d'avancement
+- **Semaine 1** : Identification de la cible (Broukou) et diagnostic des pertes.
+- **Semaines 2 & 3** : Conception technique et choix des composants.
+- **Dernière semaine (En cours)** : Finalisation du prototype et préparation du support de présentation.
+
+---
+*Projet développé dans le cadre du Rab'hacks 2026.*
+
 
