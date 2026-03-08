@@ -17,5 +17,15 @@ Broukou est un pôle stratégique de production maraîchère. Malgré son potent
 
 ---
 *Projet développé dans le cadre du Rab'hacks 2026.*
+## ⚙️ Architecture Digitale (Semaine 2)
+Pour accompagner la conservation physique, nous développons une plateforme de mise en relation :
+- **Interface Utilisateur** : [Readdy](https://readdy.co) (Plateforme de vente et réseau agriculteurs).
+- **Logistique** : Schématisation du parcours client via **Whimsical**.
+- **Base de données** : [Airtable](https://airtable.com) (Gestion des stocks et des contacts).
+- **Automation** : [Make](https://make.com) (Synchronisation flux de données entre Readdy et Airtable).
+
+## 📊 Étude de terrain & Validation (Semaine 3)
+- **Sondage** : Collecte de données en cours auprès des acteurs locaux (groupes cibles).
+- **Partenariats** : Démarches engagées auprès de l'Agropole de Kara pour une intégration institutionnelle.
 
 
