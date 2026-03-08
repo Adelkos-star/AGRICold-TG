@@ -1,2 +1,2 @@
 # AGRICold-TG
-"AGRICold-TG : Systèmes de réfrigération solaire modulaires pour la conservation des tomates en région de la Kara (Broukou, Togo)." [2, 10]
+AGRICold-TG : Systèmes de réfrigération solaire modulaires pour la conservation des tomates en région de la Kara (Broukou, Togo).
