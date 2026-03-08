@@ -1,17 +1,13 @@
-# 📊 Validation Terrain & Enquêtes (Semaine 3)
+# 🌍 Validation & Regard de la Diaspora (Semaine 3)
 
-Après avoir conçu l'architecture digitale en Semaine 2, nous avons dédié la troisième semaine à la confrontation de notre solution **AGRICold-TG** avec la réalité du marché de la Kara.
+Nous avons mobilisé la **communauté étudiante togolaise résidant au Maroc** pour obtenir un regard critique sur la conservation des produits frais à Broukou (Kara).
 
-### 📝 Étude de la Demande (Sondage Étudiants)
-Nous avons diffusé un formulaire de sondage auprès de la communauté étudiante de la Kara (futurs décideurs et consommateurs).
-- **Objectif** : Mesurer l'intérêt pour des produits locaux mieux conservés.
-- **Résultats** : Les retours confirment une forte attente pour une régularité de l'offre en tomates et légumes frais, ainsi qu'une volonté de soutenir les circuits courts via notre plateforme.
+### 📊 Étude de Marché (Sondage Diaspora)
+- **Cible** : Étudiants togolais au Maroc.
+- **Insight Clé** : Confirmation du besoin urgent de moderniser la chaîne de froid.
+- **Validation** : La digitalisation via **Readdy** est perçue comme le levier de confiance pour garantir la fraîcheur.
 
 ### 🏛️ Plaidoyer Institutionnel (Agropole de Kara)
-Parce qu'une solution durable doit s'intégrer dans le tissu économique local :
-- **Action** : Prise de contact officielle et envoi d'un dossier de présentation à l'Agropole de Kara.
-- **Vision** : Proposer AGRICold-TG comme un outil complémentaire aux infrastructures de stockage de l'Agropole pour les zones de collecte isolées comme Broukou.
-- **Statut** : Dossier soumis, en attente de retour pour une éventuelle synergie technique.
+- **Action** : Prise de contact officielle avec l'Agropole de Kara.
+- **Objectif** : Présenter AGRICold-TG comme une innovation "Made by Diaspora" pour Broukou.
 
-### 💡 Conclusion de la phase
-Cette semaine a permis de confirmer que le besoin est réel à la fois côté **consommateurs** (sondage) et côté **développement régional** (démarche Agropole).
